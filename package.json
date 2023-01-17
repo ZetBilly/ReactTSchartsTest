@@ -12,7 +12,10 @@
     "@types/react-dom": "^18.0.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-fetch-hook": "^1.9.5",
     "react-scripts": "5.0.1",
+    "react-use-trigger": "^0.3.4",
+    "recharts": "^2.3.2",
     "typescript": "^4.9.4",
     "web-vitals": "^2.1.4"
   },
